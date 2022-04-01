@@ -1,4 +1,4 @@
-##Sample Next.js Sample Application
+## Sample Next.js Sample Application
 
 Instructions
 ------------
